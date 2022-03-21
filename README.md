@@ -21,7 +21,7 @@
 </div>
   
 
-<div style="margin:50px"> 
+<div align="center" style="display:inline_block"> <br> 
   
   <a href="https://www.instagram.com/gabriel_furtado2002/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
