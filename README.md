@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel Souza👋
+<h1 align="center"> Olá! Eu sou o Gabriel Souza👋 </h1>
 
 
 - 🔭 Hoje estudo Front-End, mas com tempo irei ser Full-Stack.
@@ -20,6 +20,7 @@
   
   
 </div>
+  <br>
   
 
 <div align="center" style="display:inline_block"> <br> 
