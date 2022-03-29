@@ -6,8 +6,7 @@
 
 <br>
 
-<p align="center"> :octocat: <b><a href="https://drive.google.com/drive/u/0/my-drive">Resume</a> </b> :octocat: </p>
-<br>
+
 
 
 
