@@ -8,14 +8,11 @@
 
 
 
-
-
-
 <div align="center">
   <a href="https://github.com/GabrielSF2022">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GabrielSF2022&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSF2022&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSF2022&layout=compact&langs_count=7&theme=dark"/>
+    </a>
 </div>
   
   
@@ -25,8 +22,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     
 </div>
-  <br>
-  
 
 <div align="center" style="display:inline_block"> <br> 
   
@@ -41,6 +36,10 @@
   <a href = "mailto:gs294860@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
+  
+   <a href="https://wa.me/5588993383240" target="_blank">
+     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a> 
   
   <a href="https://www.linkedin.com/in/gabriel-furtado-847aa7225/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
