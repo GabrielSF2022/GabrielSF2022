@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 
 
 ### Socials
-<div align="center" style="display:inline_block"> <br> 
+<div style="display:inline_block"> <br> 
   
   <a href="https://www.instagram.com/gabriel_furtado2002/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
@@ -51,6 +51,8 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
   ### Badges
 
 <b>My GitHub Stats</b>
+ 
+ <div style:"
 
 <a href="http://www.github.com/GabrielSF2022"><img src="https://github-readme-stats.vercel.app/api?username=GabrielSF2022&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
 
