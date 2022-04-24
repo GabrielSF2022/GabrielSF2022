@@ -13,9 +13,9 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 
 
 
-### Skills
+<h2 align="center">Skills </h2>
 
-<p align="left">
+<p align="center">
  
   <img alt="GSF-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="GSF-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -23,8 +23,8 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 </p>
 
 
-### Socials
-<div style="display:inline_block"> <br> 
+<h2 align="center">Socials </h2>
+<div style="display:inline_block" align="center"> <br> 
   
   <a href="https://www.instagram.com/gabriel_furtado2002/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" target="_blank">
