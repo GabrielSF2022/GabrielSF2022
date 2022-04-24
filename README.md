@@ -7,12 +7,6 @@
 💻 Tenho 19 anos, sou de Sobral-CE, e estou em busca da minha primeira oportunidade na área FullStack. Conheci a área de desenvolvimento através do Igor (Programador BR ) e decide comprar curso, desde então não parei de estudar todos os dias. Atualmente estou focando em HTML, CSS e JavaScript, e como forma de praticar, desenvolvo diversos projetos que sempre compartilho aqui com vocês.
 
 
-
-<a href="https://www.github.com/GabrielSF2022" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
-
-
-
 <h2 align="center">Skills </h2>
 
 <p align="center">
