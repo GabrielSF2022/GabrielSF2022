@@ -6,6 +6,14 @@
 
 💻 Tenho 19 anos, sou de Sobral-CE, e estou em busca da minha primeira oportunidade na área FullStack. Conheci a área de desenvolvimento através do Igor (Programador BR ) e decide comprar curso, desde então não parei de estudar todos os dias. Atualmente estou focando em HTML, CSS e JavaScript, e como forma de praticar, desenvolvo diversos projetos que sempre compartilho aqui com vocês.
 
+##
+  
+- 👋 Olá, sou o Alan Moreira
+- 👀 Estou em busca de uma oportunidade para iniciar na área da programação
+- 🌱 Atualmente estou estudando <strong>JavaScript</strong>
+- 📚 Estudo atraves do curso do Igor(Prog-BR)
+- 📚 Estou cursando <em>Analise e Desenvolvimento de Sistemas</em>
+
 <div align="center">
 <a href="https://github.com/GabrielSF2022" align="left">
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSF2022&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
