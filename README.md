@@ -15,6 +15,8 @@
 - 📚 Estou cursando <em>Analise e Desenvolvimento de Sistemas</em>
 
 <div align="center">
+  <h2> ⚙️ANALYTICS </h2>
+
 <a href="https://github.com/GabrielSF2022" align="left">
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSF2022&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
  </a>
@@ -23,6 +25,7 @@
 <a href="http://www.github.com/GabrielSF2022">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielSF2022&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" />
  </a>
+ <br>
  
  </div>
  
@@ -30,19 +33,28 @@
 
 
 
-<div align="center" style="display: inline_block"> <br>
+<div align="center" style="display: inline_block"> 
+<h2> 🖥️ HARD SKILLS </h2>
  
-  <img alt="GSF-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="GSF-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  alt="GSF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img  alt="GSF-FR" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
-
-
+ <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white "/>
+  <img src="https://img.shields.io/badge/-vscode-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
  </div>
+ <br>
+ 
+<div align="center">
+  <h2> 📚 STUDYING </h2>
+	<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+
+</div>
+<br>
 
 
-<h2 align="center"></h2>
-<div style="display:inline_block" align="center"> <br> 
+<h2 align="center">📲SOCIALS</h2>
+<div style="display:inline_block" align="center"> 
   
   <a href="https://www.instagram.com/gabriel_furtado2002/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
@@ -59,7 +71,11 @@
   
   <a href="https://www.linkedin.com/in/gabriel-furtado-847aa7225/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+  </a>
+  
+  <a href="https://api.whatsapp.com/send?phone=5588993383240" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+   </a>
   
   
   
