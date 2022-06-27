@@ -14,20 +14,7 @@
 - 📚 Estudo atraves do curso do Igor(Prog-BR)
 - 📚 Estou cursando <em>Analise e Desenvolvimento de Sistemas</em>
 
-<div align="center">
-  <h2> ⚙️ANALYTICS </h2>
 
-<a href="https://github.com/GabrielSF2022" align="left">
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSF2022&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
- </a>
-
-
-<a href="http://www.github.com/GabrielSF2022">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielSF2022&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" />
- </a>
- <br>
- 
- </div>
  
 
 
@@ -51,6 +38,21 @@
 
 </div>
 <br>
+
+<div align="center">
+  <h2> ⚙️ANALYTICS </h2>
+
+<a href="https://github.com/GabrielSF2022" align="left">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSF2022&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+ </a>
+
+
+<a href="http://www.github.com/GabrielSF2022">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielSF2022&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" />
+ </a>
+ <br>
+ 
+ </div>
 
 
 <h2 align="center">📲SOCIALS</h2>
