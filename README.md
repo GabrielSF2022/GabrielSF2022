@@ -10,7 +10,7 @@
   
 - 👋 Olá, sou o Gabriel de Souza
 - 👀 Estou em busca de uma oportunidade para iniciar na área da programação
-- 🌱 Atualmente estou estudando <strong>JavaScript</strong>
+- 🌱 Atualmente estou estudando <strong>SASS</strong>
 - 📚 Estudo atraves do curso do Igor(Prog-BR)
 - 📚 Estou cursando <em>Analise e Desenvolvimento de Sistemas</em>
 
