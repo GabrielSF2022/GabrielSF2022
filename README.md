@@ -4,7 +4,7 @@
 <h2 align="center">Desenvolvedor Front-End</h2>
 
 
-💻 Tenho 19 anos, sou de Sobral-CE, e estou em busca da minha primeira oportunidade na área FullStack. Conheci a área de desenvolvimento através do Igor (Programador BR ) e decide comprar curso, desde então não parei de estudar todos os dias. Atualmente estou focando em SASS, jQuery e JavaScript, e como forma de praticar, desenvolvo diversos projetos que sempre compartilho aqui com vocês.
+💻 Tenho 19 anos, sou de Sobral-CE, e estou em busca da minha primeira oportunidade na área FullStack. Conheci a área de desenvolvimento através do Igor (Programador BR ) e decide comprar curso, desde então não parei de estudar todos os dias. Atualmente estou focando em jQuery e JavaScript, e como forma de praticar, desenvolvo diversos projetos que sempre compartilho aqui com vocês.
 
 ##
   
@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white "/>
   <img src="https://img.shields.io/badge/-vscode-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+
  </div>
  <br>
  
