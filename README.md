@@ -35,7 +35,6 @@
  
 <div align="center">
   <h2> 📚 STUDYING </h2>
-	<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 
 </div>
