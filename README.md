@@ -4,7 +4,7 @@
 <h2 align="center">Desenvolvedor Front-End</h2>
 
 
-💻 Tenho 19 anos, sou de Sobral-CE, e estou em busca da minha primeira oportunidade na área de desenvolvimento Front-End. Conheci a área de desenvolvimento através do Igor (Programador BR ) e decide comprar curso, desde então não parei de estudar todos os dias. Atualmente estou focando em Express.JS, e como forma de praticar, desenvolvo diversos projetos que sempre compartilho aqui com vocês.
+💻 Tenho 20 anos, sou de Sobral-CE, e estou em busca da minha primeira oportunidade na área de desenvolvimento Front-End. Conheci a área de desenvolvimento através do Igor (Programador BR ) e decide comprar curso, desde então não parei de estudar todos os dias. Atualmente estou focando em Express.JS, e como forma de praticar, desenvolvo diversos projetos que sempre compartilho aqui com vocês.
 
 ##
   
@@ -33,13 +33,15 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+
 
  </div>
  <br>
  
 <div align="center">
   <h2> 📚 STUDYING </h2>
-    <img src ="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>  
 </div>
 <br>
 <br>
