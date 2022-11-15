@@ -4,13 +4,13 @@
 <h2 align="center">Desenvolvedor Front-End</h2>
 
 
-💻 Tenho 20 anos, sou de Sobral-CE, e estou em busca da minha primeira oportunidade na área de desenvolvimento Front-End. Conheci a área de desenvolvimento através do Igor (Programador BR ) e decide comprar curso, desde então não parei de estudar todos os dias. Atualmente estou focando em Express.JS, e como forma de praticar, desenvolvo diversos projetos que sempre compartilho aqui com vocês.
+💻 Tenho 20 anos, sou de Sobral-CE, e estou em busca da minha primeira oportunidade na área de desenvolvimento Front-End. Conheci a área de desenvolvimento através do Igor (Programador BR ) e decide comprar curso, desde então não parei de estudar todos os dias. Atualmente estou focando em MONGODB, e como forma de praticar, desenvolvo diversos projetos que sempre compartilho aqui com vocês.
 
 ##
   
 - 👋 Olá, sou o Gabriel Furtado
 - 👀 Estou em busca de uma oportunidade para iniciar na área da programação
-- 🌱 Atualmente estou estudando <strong>NODE.JS</strong>
+- 🌱 Atualmente estou estudando <strong>MONGODB</strong>
 - 📚 Estudo atraves do curso do Igor(Prog-BR)
 - 📚 Estou cursando <em>Analise e Desenvolvimento de Sistemas</em>
 
