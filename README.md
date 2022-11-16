@@ -6,10 +6,12 @@
 <img align="right" src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-5.gif" width="360px" height="250px" alt="anime chilling">
 
 <ul align="left">
-    <li>🤩️ Amante da Tecnologia, Animes, Café e Lo-Fi 🤩️</li><br>
-    <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀</li><br>
-    <li>💻 Estudo na Faculdade <a href="https://www.iesb.br/" target="_blank">IESB</a> e na escola de formação de devs <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>. Atualmente estou aprendendo <b>JavaScript</b> e <b>ReactJS</b> na Rocketseat e <b>Python</b> na IESB 💻</li><br>
-    <li>🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End (talvez Fullstack) Web e Mobile 🔮
+    <li>🤩️ Olá, me chamo Gabriel Furtado, tenho 20 anos e sou de Sobral-CE. 🤩️</li><br>
+    <li>🚀 Busco minha primeira oportunidade no mercado de trabalho na aréa de desenvolvimento Front-End. 🚀</li><br>
+    <li>💻 Estudo na Faculdade Faculdade no curso de Analisé e Desenvolvimento de Sistemas, onde estou no ultimo semestre. Estudo programação através do curso Programador BR e por vídeos e documentações 💻</li><br>
+    <li>📚 Atualmente estou aprendendo MongoDB 📚</li><br>
+    <li>🔮 Meu objetivo é me tornar desenvolvedor Fullstack Web e Mobile 🔮</li><br>
+    <li>🖥 Pretendo estudar React e React Native posteriormente🖥</li>
 </ul>
 <br>
   
@@ -40,22 +42,22 @@
 <img align="left" width="220px" height="180px" src="https://i.imgur.com/O3Bxs16.gif" alt="anime coding">
 <br><br>
 <p align="center">
-  <a href="https://docs.google.com/document/d/1h95nKIQ5ASSYmv8kV7I2Za1CLo9_5ELUt92S_SSwaSk/edit?usp=sharing" alt="currículo">
+  <a href="https://gabrielsf2022.github.io/curriculo_online/" alt="currículo">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/curriculo.svg" alt="resume">
   </a>
-  <a href = "mailto:desenvjonathan@hotmail.com" alt="e-mail">
+  <a href = "mailto:gabriell.furtado2002@gmail.com" alt="e-mail">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/e-mail.svg" target="_blank">
   </a> 
-  <a href="https://desenvjonathan.github.io/mini-portfolio/" alt="Portfólio" target="_blank">
+  <a href="#" alt="Portfólio" target="_blank">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/portfolio.svg" alt="Portfólio">
   </a> 
-  <a href="https://www.linkedin.com/in/jonathan-ramos-p/" alt="Linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-furtado-souza/" alt="Linkedin" target="_blank">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/linkedin.svg" alt="linkedin">
   </a>
-  <a href="https://wa.me/5561982272090?text=Sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5588993383240" alt="WhatsApp" target="_blank">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/whatsapp.svg" alt="Whatsapp">
   </a>
-  <a href="https://www.instagram.com/jon_ramos97/" alt="Instagram" target="_blank">
+  <a href="https://www.instagram.com/gabriel_furtado2002/" alt="Instagram" target="_blank">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/instagram.svg" alt="Instagram">
   </a>
 </p>
