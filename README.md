@@ -51,9 +51,9 @@
 
 <div align="center">
 
-<a href="https://github.com/GabrielSF2022" align="left">
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSF2022&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
- </a>
+	<a href="https://github.com/GabrielSF2022" align="left">
+	 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?	username=GabrielSF2022&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+ 	</a>
 
 
 <a href="http://www.github.com/GabrielSF2022">
@@ -100,7 +100,7 @@
   
   
   
-  <!--
+  
   ////////////////////////////////////////////////////////////////////////////////////////////////////
   
   
@@ -109,7 +109,7 @@
 <h2 align="center">Desenvolvedor Front-End</h2>
 
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
-<img align="right" src="https://media.tenor.com/-aieB6Qw8YQAAAAC/anime-angry.gif" width="360px" height="250px" alt="anime chilling">
+<img align="right" src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-5.gif" width="360px" height="250px" alt="anime chilling">
 
 <ul align="left">
     <li>🤩️ Amante da Tecnologia, Animes, Café e Lo-Fi 🤩️</li><br>
@@ -134,12 +134,16 @@
 	  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 	  <img src ="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   </div>
+<br>
+<br>
+	
+
 
 
   
   
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏｓ</i> &ensp;💬</h2>
-<img align="left" width="220px" height="180px" src="./coffee.gif" alt="anime coding">
+<img align="left" width="220px" height="180px" src="https://i.imgur.com/O3Bxs16.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://docs.google.com/document/d/1h95nKIQ5ASSYmv8kV7I2Za1CLo9_5ELUt92S_SSwaSk/edit?usp=sharing" alt="currículo">
@@ -162,3 +166,33 @@
   </a>
 </p>
 <br><br><br>
+	
+	
+
+<h2 align="center">
+<details open>
+<summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅｓ</i> &ensp;📈</summary>
+<br>
+
+	
+	
+<div align="center">
+
+<a href="https://github.com/GabrielSF2022" align="left">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSF2022&layout=compact&theme=tokyonight" />
+</a>
+
+
+<a href="http://www.github.com/GabrielSF2022">
+	
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielSF2022&show_icons=true&theme=tokyonight" />
+ </a>
+ </div>
+ <br>
+ 
+ ![Snake animation](https://github.com/GabrielSF2022/GabrielSF2022/blob/output/github-contribution-grid-snake.svg)
+</details>
+	
+
+
+	
