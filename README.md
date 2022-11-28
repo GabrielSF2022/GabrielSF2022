@@ -48,7 +48,7 @@
   <a href = "mailto:gabriell.furtado2002@gmail.com" alt="e-mail">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/e-mail.svg" target="_blank">
   </a> 
-  <a href="#" alt="Portfólio" target="_blank">
+  <a href="https://gabrielsf2022.github.io/portifolio-version-1/" alt="Portfólio" target="_blank">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/portfolio.svg" alt="Portfólio">
   </a> 
   <a href="https://www.linkedin.com/in/gabriel-furtado-souza/" alt="Linkedin" target="_blank">
